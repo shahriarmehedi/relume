@@ -55,7 +55,7 @@ function ContactUs() {
                     </div>
                 </div>
                 <div className='w-full lg:w-[65%]'>
-                    <img src="Placeholder Image.svg" alt="contact" className='w-full' />
+                    <img src="14.png" alt="contact" className='w-full object-cover' />
                 </div>
             </div>
         </div>

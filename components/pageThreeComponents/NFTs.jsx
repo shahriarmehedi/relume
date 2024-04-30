@@ -6,56 +6,56 @@ function NFTs() {
     const nfts = [
         {
             id: 1,
-            image: 'https://placeholder.co/150x150',
+            image: '/2.jpeg',
             title: 'NFT Title',
             description: 'NFT Description',
             price: 199,
         },
         {
             id: 2,
-            image: 'https://placeholder.co/150x150',
+            image: '/3.png',
             title: 'NFT Title',
             description: 'NFT Description',
             price: 199,
         },
         {
             id: 3,
-            image: 'https://placeholder.co/150x150',
+            image: '/4.png',
             title: 'NFT Title',
             description: 'NFT Description',
             price: 199,
         },
         {
             id: 4,
-            image: 'https://placeholder.co/150x150',
+            image: '/5.png',
             title: 'NFT Title',
             description: 'NFT Description',
             price: 199,
         },
         {
             id: 5,
-            image: 'https://placeholder.co/150x150',
+            image: '/6.png',
             title: 'NFT Title',
             description: 'NFT Description',
             price: 199,
         },
         {
             id: 6,
-            image: 'https://placeholder.co/150x150',
+            image: '/7.png',
             title: 'NFT Title',
             description: 'NFT Description',
             price: 199,
         },
         {
             id: 7,
-            image: 'https://placeholder.co/150x150',
+            image: '/8.png',
             title: 'NFT Title',
             description: 'NFT Description',
             price: 199,
         },
         {
             id: 8,
-            image: 'https://placeholder.co/150x150',
+            image: '/9.png',
             title: 'NFT Title',
             description: 'NFT Description',
             price: 199,
@@ -66,7 +66,7 @@ function NFTs() {
     const SingleNftDiv = ({ nft }) => {
         return (
             <div className="flex flex-col items-center gap-2 mb-14">
-                <img src={nft.image} alt={nft.title} className="w-full h-full" />
+                <img src={nft.image} alt={nft.title} className="w-full h-full object-cover" />
                 <h3 className="text-xl font-bold mt-2">{nft.title}</h3>
                 <p className="text-gray-300">{nft.description}</p>
                 <p className="text-2xl text-gray-100">${nft.price}</p>

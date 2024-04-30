@@ -11,12 +11,12 @@ function Collection() {
             </div>
 
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-7 mt-14">
-                <img src="https://placehold.co/600x500" alt="collection" className='' />
-                <img src="https://placehold.co/600x500" alt="collection" className='' />
-                <img src="https://placehold.co/600x500" alt="collection" className='' />
-                <img src="https://placehold.co/600x500" alt="collection" className='' />
-                <img src="https://placehold.co/600x500" alt="collection" className='' />
-                <img src="https://placehold.co/600x500" alt="collection" className='' />
+                <img src="7.png" alt="collection" className='w-full h-full object-cover' />
+                <img src="8.png" alt="collection" className='w-full h-full object-cover' />
+                <img src="9.png" alt="collection" className='w-full h-full object-cover' />
+                <img src="10.png" alt="collection" className='w-full h-full object-cover' />
+                <img src="11.png" alt="collection" className='w-full h-full object-cover' />
+                <img src="12.png" alt="collection" className='w-full h-full object-cover' />
 
             </div>
         </div>

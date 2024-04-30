@@ -50,7 +50,7 @@ function Hero2() {
                     </div>
                 </div>
                 <div className='w-full lg:w-1/2'>
-                    <img src="https://placehold.co/600x500" alt="hero" className='w-full mt-10' />
+                    <img src="13.png" alt="hero" className='w-full mt-10' />
                 </div>
             </div>
         </div>

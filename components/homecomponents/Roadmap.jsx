@@ -30,7 +30,7 @@ function Roadmap() {
 
                             </div>
                         </div>
-                        <img src="https://placehold.co/600x400" alt="hero" className='w-full mt-10' />
+                        <img src="5.png" alt="hero" className='w-full mt-10' />
                     </div>
                     <hr />
                 </li>
@@ -59,7 +59,7 @@ function Roadmap() {
 
                             </div>
                         </div>
-                        <img src="https://placehold.co/600x400" alt="hero" className='w-full mt-10' />
+                        <img src="6.png" alt="hero" className='w-full mt-10' />
                     </div>
                     <hr />
                 </li>
@@ -88,7 +88,7 @@ function Roadmap() {
 
                             </div>
                         </div>
-                        <img src="https://placehold.co/600x400" alt="hero" className='w-full mt-10' />
+                        <img src="7.png" alt="hero" className='w-full mt-10' />
                     </div>
                     <hr />
                 </li>
@@ -117,7 +117,7 @@ function Roadmap() {
 
                             </div>
                         </div>
-                        <img src="https://placehold.co/600x400" alt="hero" className='w-full mt-10' />
+                        <img src="8.png" alt="hero" className='w-full mt-10' />
                     </div>
                     <hr />
                 </li>
@@ -146,7 +146,7 @@ function Roadmap() {
 
                             </div>
                         </div>
-                        <img src="https://placehold.co/600x400" alt="hero" className='w-full mt-10' />
+                        <img src="9.png" alt="hero" className='w-full mt-10' />
                     </div>
                     <hr />
                 </li>

@@ -20,7 +20,7 @@ function Hero() {
             </div>
 
             <div>
-                <img src="https://placehold.co/600x400" alt="hero" className='w-full mt-10' />
+                <img src="1.png" alt="hero" className='w-full mt-10' />
             </div>
         </div>
     )

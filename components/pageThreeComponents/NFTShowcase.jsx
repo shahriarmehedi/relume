@@ -10,16 +10,16 @@ function NFTShowcase() {
                 </p>
             </div>
 
-            <div className="flex flex-col lg:flex-row gap-5 mt-16">
-                <div className="w-full lg:w-1/2">
-                    <img src="https://placehold.co/500x500" alt="hero" className='w-full' />
+            <div className="flex flex-col lg:flex-row gap-5 mt-16 h-full">
+                <div className="w-full lg:w-1/2 h-full">
+                    <img src="/1.png" alt="hero" className='w-full h-[600px] object-cover' />
                 </div>
                 <div className="w-full lg:w-1/2">
-                    <div className="grid grid-cols-1 lg:grid-cols-2 gap-5">
-                        <img src="https://placehold.co/500x500" alt="hero" className='w-full' />
-                        <img src="https://placehold.co/500x500" alt="hero" className='w-full' />
-                        <img src="https://placehold.co/500x500" alt="hero" className='w-full' />
-                        <img src="https://placehold.co/500x500" alt="hero" className='w-full' />
+                    <div className="grid grid-cols-1 lg:grid-cols-2 gap-5 h-full">
+                        <img src="/7.png" alt="hero" className='w-full h-full object-cover' />
+                        <img src="/8.png" alt="hero" className='w-full h-full object-cover' />
+                        <img src="/9.png" alt="hero" className='w-full h-full object-cover' />
+                        <img src="/10.png" alt="hero" className='w-full h-full object-cover' />
                     </div>
                 </div>
             </div>
