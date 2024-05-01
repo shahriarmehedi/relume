@@ -13,7 +13,7 @@ function Points() {
                         Immerse yourself in a post-apocalyptic world where you must mine rare elements and build civilizations.
                     </p>
                     <div className="flex items-center gap-10 mt-10">
-                        <div class="cursor-pointer h-12 w-36 rounded-full bg-gradient-to-r from-sky-500 to-red-500 p-[1px]">
+                        <div class="cursor-pointer h-12 w-36 rounded-full bg-gradient-to-r from-sky-500 to-red-500 p-[1px] hover:scale-105 hover:from-red-500 hover:to-sky-500 transition duration-200">
                             <div class="flex h-full w-full items-center justify-center bg-gray-800 rounded-full">
                                 <h1 class="text-white">Learn More</h1>
                             </div>
@@ -36,7 +36,7 @@ function Points() {
                         Unlock the potential of NFT assets in our groundbreaking RTS video game.
                     </p>
                     <div className="flex items-center gap-10 mt-10">
-                        <div class="cursor-pointer h-12 w-36 rounded-full bg-gradient-to-r from-sky-500 to-red-500 p-[1px]">
+                        <div class="cursor-pointer h-12 w-36 rounded-full bg-gradient-to-r from-sky-500 to-red-500 p-[1px] hover:scale-105 hover:from-red-500 hover:to-sky-500 transition duration-200">
                             <div class="flex h-full w-full items-center justify-center bg-gray-800 rounded-full">
                                 <h1 class="text-white">Learn More</h1>
                             </div>
@@ -59,7 +59,7 @@ function Points() {
                         Stay updated on our development milestones and future features.
                     </p>
                     <div className="flex items-center gap-10 mt-10">
-                        <div class="cursor-pointer h-12 w-36 rounded-full bg-gradient-to-r from-sky-500 to-red-500 p-[1px]">
+                        <div class="cursor-pointer h-12 w-36 rounded-full bg-gradient-to-r from-sky-500 to-red-500 p-[1px] hover:scale-105 hover:from-red-500 hover:to-sky-500 transition duration-200">
                             <div class="flex h-full w-full items-center justify-center bg-gray-800 rounded-full">
                                 <h1 class="text-white">Learn More</h1>
                             </div>

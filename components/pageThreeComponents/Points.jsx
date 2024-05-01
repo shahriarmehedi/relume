@@ -13,7 +13,7 @@ function Points() {
                         Discover a vibrant marketplace where you can acquire, trade, and utilize unique NFT assets within the Shiba Shanti Inu ecosystem.
                     </p>
                     <div className="flex items-center gap-10 mt-10">
-                        <div class="cursor-pointer h-12 w-36 rounded-full bg-gradient-to-r from-sky-500 to-red-500 p-[1px]">
+                        <div class="cursor-pointer h-12 w-36 rounded-full bg-gradient-to-r from-sky-500 to-red-500 p-[1px] hover:scale-105 hover:from-red-500 hover:to-sky-500 transition duration-200">
                             <div class="flex h-full w-full items-center justify-center bg-gray-800 rounded-full">
                                 <h1 class="text-white">Learn More</h1>
                             </div>
@@ -36,7 +36,7 @@ function Points() {
                         Unlock the full potential of your NFT assets by utilizing them within the Shiba Shanti Inu game's marketplace.
                     </p>
                     <div className="flex items-center gap-10 mt-10">
-                        <div class="cursor-pointer h-12 w-36 rounded-full bg-gradient-to-r from-sky-500 to-red-500 p-[1px]">
+                        <div class="cursor-pointer h-12 w-36 rounded-full bg-gradient-to-r from-sky-500 to-red-500 p-[1px] hover:scale-105 hover:from-red-500 hover:to-sky-500 transition duration-200">
                             <div class="flex h-full w-full items-center justify-center bg-gray-800 rounded-full">
                                 <h1 class="text-white">Learn More</h1>
                             </div>
@@ -59,7 +59,7 @@ function Points() {
                         Take your gaming experience to the next level by utilizing NFTs to enhance and customize your gameplay in Shiba Shanti Inu.
                     </p>
                     <div className="flex items-center gap-10 mt-10">
-                        <div class="cursor-pointer h-12 w-36 rounded-full bg-gradient-to-r from-sky-500 to-red-500 p-[1px]">
+                        <div class="cursor-pointer h-12 w-36 rounded-full bg-gradient-to-r from-sky-500 to-red-500 p-[1px] hover:scale-105 hover:from-red-500 hover:to-sky-500 transition duration-200">
                             <div class="flex h-full w-full items-center justify-center bg-gray-800 rounded-full">
                                 <h1 class="text-white">Learn More</h1>
                             </div>

@@ -14,12 +14,12 @@ function CTA() {
             <div className="w-full lg:w-1/2 flex flex-col">
                 <p className='text-lg'>Welcome to Shiba Shanti Inu, where we are revolutionizing the world of meme coins. Our mission is to unleash the potential of blockchain technology and NFT assets, creating a new era of gaming and digital assets.</p>
                 <div className="flex gap-3 mt-7">
-                    <div class="cursor-pointer h-12 w-36 rounded-full bg-gradient-to-r from-sky-500 to-red-500 p-[1px]">
+                    <div class="cursor-pointer h-12 w-36 rounded-full bg-gradient-to-r from-sky-500 to-red-500 p-[1px] hover:scale-105 hover:from-red-500 hover:to-sky-500 transition duration-200">
                         <div class="flex h-full w-full items-center justify-center bg-gray-800 rounded-full">
                             <h1 class="text-white">Learn More</h1>
                         </div>
                     </div>
-                    <div class="cursor-pointer h-12 w-36 rounded-full bg-gradient-to-r from-sky-500 to-red-500 p-[1px]">
+                    <div class="cursor-pointer h-12 w-36 rounded-full bg-gradient-to-r from-sky-500 to-red-500 p-[1px] hover:scale-105 hover:from-red-500 hover:to-sky-500 transition duration-200">
                         <div class="flex h-full w-full items-center justify-center bg-gray-800 rounded-full">
                             <h1 class="text-white">Contact Us</h1>
                         </div>

@@ -13,7 +13,7 @@ function Points() {
                         In this post-apocalyptic game, you'll need to carefully manage resources like food and work to ensure the survival of your civilization, just like in Fallout Shelter.
                     </p>
                     <div className="flex items-center gap-10 mt-10">
-                        <div class="cursor-pointer h-12 w-36 rounded-full bg-gradient-to-r from-sky-500 to-red-500 p-[1px]">
+                        <div class="cursor-pointer h-12 w-36 rounded-full bg-gradient-to-r from-sky-500 to-red-500 p-[1px] hover:scale-105 hover:from-red-500 hover:to-sky-500 transition duration-200">
                             <div class="flex h-full w-full items-center justify-center bg-gray-800 rounded-full">
                                 <h1 class="text-white">Learn More</h1>
                             </div>
@@ -36,7 +36,7 @@ function Points() {
                         As you progress in the game, you'll have the opportunity to expand your civilization, build underground D.U.M.B's, and mine rare elements like helium-3 on the dark side of the moon.
                     </p>
                     <div className="flex items-center gap-10 mt-10">
-                        <div class="cursor-pointer h-12 w-36 rounded-full bg-gradient-to-r from-sky-500 to-red-500 p-[1px]">
+                        <div class="cursor-pointer h-12 w-36 rounded-full bg-gradient-to-r from-sky-500 to-red-500 p-[1px] hover:scale-105 hover:from-red-500 hover:to-sky-500 transition duration-200">
                             <div class="flex h-full w-full items-center justify-center bg-gray-800 rounded-full">
                                 <h1 class="text-white">Learn More</h1>
                             </div>
@@ -59,7 +59,7 @@ function Points() {
                         Equip your civilization with space-based weapons and modify them to defend against enemies in surface combat. Upgrade your technology and unleash the power of DARPA-inspired innovations.
                     </p>
                     <div className="flex items-center gap-10 mt-10">
-                        <div class="cursor-pointer h-12 w-36 rounded-full bg-gradient-to-r from-sky-500 to-red-500 p-[1px]">
+                        <div class="cursor-pointer h-12 w-36 rounded-full bg-gradient-to-r from-sky-500 to-red-500 p-[1px] hover:scale-105 hover:from-red-500 hover:to-sky-500 transition duration-200">
                             <div class="flex h-full w-full items-center justify-center bg-gray-800 rounded-full">
                                 <h1 class="text-white">Learn More</h1>
                             </div>

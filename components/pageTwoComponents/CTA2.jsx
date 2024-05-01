@@ -10,14 +10,14 @@ function CTA2() {
                 </p>
 
                 <div className="flex gap-5">
-                    <div class="cursor-pointer h-12 w-36 rounded-full bg-gradient-to-r from-sky-500 to-red-500 p-[1px]">
+                    <div class="cursor-pointer h-12 w-36 rounded-full bg-gradient-to-r from-sky-500 to-red-500 p-[1px] hover:scale-105 hover:from-red-500 hover:to-sky-500 transition duration-200">
                         <div class="flex h-full w-full items-center justify-center bg-gray-900 rounded-full">
                             <h1 class="text-white">
                                 Join
                             </h1>
                         </div>
                     </div>
-                    <div class="cursor-pointer h-12 w-36 rounded-full bg-gradient-to-r from-sky-500 to-red-500 p-[1px]">
+                    <div class="cursor-pointer h-12 w-36 rounded-full bg-gradient-to-r from-sky-500 to-red-500 p-[1px] hover:scale-105 hover:from-red-500 hover:to-sky-500 transition duration-200">
                         <div class="flex h-full w-full items-center justify-center bg-gray-900 rounded-full">
                             <h1 class="text-white">
                                 Follow
