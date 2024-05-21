@@ -1,25 +1,35 @@
-import FAQ from '@/components/pageThreeComponents/FAQ'
-import Discover from '@/components/pageThreeComponents/Discover'
-import Explore from '@/components/pageThreeComponents/Explore'
-import Points from '@/components/pageThreeComponents/Points'
-import NFTs from '@/components/pageThreeComponents/NFTs'
-import NFTShowcase from '@/components/pageThreeComponents/NFTShowcase'
-import Review from '@/components/pageThreeComponents/Review'
-import CTA from '@/components/pageThreeComponents/CTA'
-import Contact from '@/components/pageThreeComponents/Contact'
+import Mining from '@/components/pageFourComponents/Mining'
+import Hero from '@/components/pageFourComponents/Hero'
+import Points from '@/components/pageFourComponents/Points'
+import Unlock from '@/components/pageFourComponents/Unlock'
+import Integrate from '@/components/pageFourComponents/Integrate'
+import CTA from '@/components/pageFourComponents/CTA'
+import Timeline from '@/components/pageFourComponents/Timeline'
+import Review from '@/components/pageFourComponents/Review'
+import FAQ from '@/components/pageFourComponents/FAQ'
+import CTA2 from '@/components/pageFourComponents/CTA2'
+import Gallery from '@/components/pageFourComponents/Gallery'
+import Inspired from '@/components/pageFourComponents/Inspired'
+
 
 function page() {
     return (
         <div className='bg-gray-900 text-white'>
-            <Discover />
-            <Explore />
+            <Mining />
+            <Hero />
             <Points />
-            <NFTs />
-            <NFTShowcase />
+            <Unlock />
+            <Integrate />
+            <CTA />
+            <Timeline />
             <Review />
             <FAQ />
-            <CTA />
-            <Contact />
+            <CTA2 />
+            <Gallery />
+            <Inspired />
+
+
+
         </div>
     )
 }

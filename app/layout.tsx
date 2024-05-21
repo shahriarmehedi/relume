@@ -10,8 +10,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Relume",
-  description: "Community for developers",
+  title: "Shiba Shanti Inu",
+  description: "Join us on our journey to the moon with our unique and exciting meme coin.",
 };
 
 export default function RootLayout({
